@@ -17,7 +17,7 @@ Route::get('/', function () {
     return redirect('/home');
 });
 
-Route::get('/home', function () {
+Route::get('/sample', function () {
     return view('welcome');
 });
 
@@ -51,4 +51,9 @@ Route::get('/blog-details', function () {
 
 Route::get('/contact', function () {
     return view('contact');
+});
+
+
+Route::get('/home', function () {
+    return view('home');
 });

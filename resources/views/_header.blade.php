@@ -14,9 +14,10 @@
             <ul>
                 <li><a href="/home" class="{{ request()->is('home') ? 'active' : '' }}">Home</a></li>
                 <li><a href="/about" class="{{ request()->is('about') ? 'active' : '' }}">About</a></li>
-                <li><a href="/services" class="{{ request()->is('services') ? 'active' : '' }}">Services</a></li>
+                {{-- <li><a href="/services" class="{{ request()->is('services') ? 'active' : '' }}">Services</a></li>
                 <li><a href="/projects" class="{{ request()->is('projects') ? 'active' : '' }}">Projects</a></li>
-                <li><a href="/blogs" class="{{ request()->is('blogs') ? 'active' : '' }}">Blog</a></li>
+                <li><a href="/blogs" class="{{ request()->is('blogs') ? 'active' : '' }}">Blog</a></li> --}}
+                <li><a href="/programs" class="{{ request()->is('programs') ? 'active' : '' }}">Programs</a></li>
                 <li><a href="/contact" class="{{ request()->is('contact') ? 'active' : '' }}">Contact</a></li>
             </ul>
         </nav><!-- .navbar -->
