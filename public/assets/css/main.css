@@ -2691,3 +2691,44 @@ section {
 .footer .footer-legal .credits a {
   color: var(--color-primary);
 }
+
+
+/*--------------------------------------------------------------
+# Instructor
+--------------------------------------------------------------*/
+
+.social-link i {
+    font-size: 20px; /* Adjust the font size as needed */
+    transition: color 0.3s; /* Add a smooth transition effect on color change */
+}
+
+.social-link.readmore:hover,
+.social-link.readmore:focus,
+.social-link.readmore:active {
+    background-color: #FEB900 !important;
+    border-color: #FEB900 !important;
+    outline: 1px solid #FEB900 !important; /* Add the outline style */
+}
+
+.social-link.readmore:hover span,
+.social-link.readmore:focus span,
+.social-link.readmore:active span {
+    color: #fff !important;
+    transition: color 0.3s; /* Add a smooth transition effect on color change */
+}
+
+.image-container {
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 100%; /* This creates a square aspect ratio (1:1) */
+}
+
+.image-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* This ensures the image covers the entire container */
+}
+

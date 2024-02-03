@@ -57,3 +57,16 @@ Route::get('/contact', function () {
 Route::get('/home', function () {
     return view('home');
 });
+
+Route::get('/leopoldo-lasaleta', function () {
+    return view('instructor1');
+});
+
+Route::get('/joseph-roquid', function () {
+    return view('instructor2');
+});
+
+
+Route::get('/charlie-mengullo', function () {
+    return view('instructor3');
+});
