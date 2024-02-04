@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\MailController;
 
 /*
 |--------------------------------------------------------------------------
@@ -75,3 +76,5 @@ Route::get('/joseph-roquid', function () {
 Route::get('/charlie-mengullo', function () {
     return view('instructor3');
 });
+
+Route::post('send-mail', [MailController::class, 'contactUs'])->name('contact.submit');

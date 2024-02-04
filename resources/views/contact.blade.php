@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>UpConstruction Bootstrap Template - Contact</title>
+  <title>Sayoc Fighting International</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -63,10 +63,10 @@
 
         <div class="row gy-4">
           <div class="col-lg-6">
-            <div class="info-item  d-flex flex-column justify-content-center align-items-center">
+            <div class="info-item text-center d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-map"></i>
               <h3>Our Address</h3>
-              <p>Case Hacienda Brgy. Tejeros Convention Rosario, Cavite</p>
+              <p>Casa Hacienda Brgy. Tejeros Convention Rosario, Cavite</p>
             </div>
           </div><!-- End Info Item -->
 
@@ -95,20 +95,21 @@
           </div><!-- End Google Maps -->
 
           <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="{{ route('contact.submit') }}" method="post" role="form" class="php-email-form">
+                @csrf
               <div class="row gy-4">
                 <div class="col-lg-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name">
                 </div>
                 <div class="col-lg-6 form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email">
                 </div>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
               </div>
               <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="Message"></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
