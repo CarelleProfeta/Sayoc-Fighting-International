@@ -58,6 +58,11 @@ Route::get('/home', function () {
     return view('home');
 });
 
+
+Route::get('/programs', function () {
+    return view('programs');
+});
+
 Route::get('/leopoldo-lasaleta', function () {
     return view('instructor1');
 });
