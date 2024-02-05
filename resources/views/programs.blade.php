@@ -45,7 +45,7 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/about/about1.jpg');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/hero-carousel/cover14.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>Programs</h2>
@@ -62,7 +62,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row justify-content-around gy-4">
-          <div class="col-lg-6 img-bg" style="background-image: url(assets/img/hero-carousel/cover2.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
+          <div class="col-lg-6 img-bg" style="background-image: url('assets/img/hero-carousel/cover20.jpg');" data-aos="zoom-in" data-aos-delay="100"></div>
 
           <div class="col-lg-5 d-flex flex-column justify-content-center">
             <h3>Beginner Course (Kadi)</h3>
@@ -148,7 +148,7 @@
             </div><!-- End Icon Box -->
           </div>
 
-          <div class="col-lg-6 img-bg" style="background-image: url(assets/img/hero-carousel/cover9.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
+          <div class="col-lg-6 img-bg" style="background-image: url(assets/img/hero-carousel/cover19.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
         </div>
 
       </div>

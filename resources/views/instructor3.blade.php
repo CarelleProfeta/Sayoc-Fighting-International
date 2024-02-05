@@ -35,7 +35,7 @@
         <main id="main">
 
             <!-- ======= Breadcrumbs ======= -->
-            <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/about/about1.jpg');">
+            <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/hero-carousel/cover14.jpg');">
                 <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
                 <h2>Charlie Mengullo</h2>
@@ -88,7 +88,7 @@
                     </div><!-- End Icon Box -->
                     </div>
 
-                    <div class="col-lg-6 img-bg" style="background-image: url(assets/img/hero-carousel/cover2.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
+                    <div class="col-lg-6 img-bg" style="background-image: url(assets/img/instructor/guro3/photo2.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
                 </div>
 
                 </div>
@@ -160,7 +160,7 @@
 
                 <div class="row justify-content-between gy-4">
 
-                    <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up" style="background-image: url(assets/img/hero-carousel/cover2.jpg);">
+                    <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up" style="background-image: url(assets/img/instructor/guro3/photo3.jpg); background-size: contain; background-position: center; background-repeat: no-repeat;">
                     </div>
 
                     <div class="col-lg-5" data-aos="fade">

@@ -51,10 +51,12 @@
             <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
 
                 <div class="carousel-item active" style="background-image: url(assets/img/SFI_logo.jpg)"></div>
+                <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover22.jpg)"></div>
                 <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover12.jpg)"></div>
-                <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover13.jpg)"></div>
                 <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover6.jpg)"></div>
-                <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover8.jpg)"></div>
+                <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover5.jpg)"></div>
+                <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover3.jpg)"></div>
+                <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover4.jpg)"></div>
 
                 <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
@@ -117,14 +119,14 @@
                             <div class="bg-white rounded shadow-sm py-5 px-4">
                                 <img src="assets/img/instructor/guro1/photo1.jpg" alt="" width="150" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
                                 <h5 class="mb-0">Leopoldo Lasaleta Jr.</h5>
-                                <span class="small text-uppercase text-muted">Punong Guro</span>
-                                <ul class="social mb-0 list-inline mt-3">
-                                    <li class="list-inline-item"><a href="#" class="social-link readmore btn btn-outline-warning"><span class="fa fa-facebook-f"></span></a></li>
-                                    <li class="list-inline-item"><a href="#" class="social-link readmore btn btn-outline-warning"><span class="fa fa-twitter"></span></a></li>
-                                    <li class="list-inline-item"><a href="#" class="social-link readmore btn btn-outline-warning"><span class="fa fa-instagram"></span></a></li>
-                                    <li class="list-inline-item"><a href="#" class="social-link readmore btn btn-outline-warning"><span class="fa fa-linkedin"></span></a></li>
-                                </ul>
+                                <span class="small text-uppercase text-muted">Chairman, Sayoc Fighting International</span>
+                                <br>
+                                <span class="small text-uppercase text-muted">0992 - 549 - 8330</span>
+                                <br>
                                 <a href="/leopoldo-lasaleta" class="readmore btn btn-outline-warning mt-3"> Learn more <i class="bi bi-arrow-right"></i></a>
+                                <ul class="social mb-0 list-inline mt-3">
+                                    <li class="list-inline-item"><a target="blank" href="https://www.facebook.com/leopoldojr.lasaleta" class="social-link readmore btn btn-outline-warning"><span class="fa fa-facebook-f"></span></a></li>
+                                </ul>
                             </div>
                         </div>
                         <!-- End-->
@@ -134,14 +136,14 @@
                             <div class="bg-white rounded shadow-sm py-5 px-4">
                                 <img src="assets/img/instructor/guro2/photo1.jpg" alt="" width="150" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
                                 <h5 class="mb-0">Joseph Roquid</h5>
-                                <span class="small text-uppercase text-muted">Vice President</span>
-                                <ul class="social mb-0 list-inline mt-3">
-                                    <li class="list-inline-item"><a href="#" class="social-link readmore btn btn-outline-warning"><span class="fa fa-facebook-f"></span></a></li>
-                                    <li class="list-inline-item"><a href="#" class="social-link readmore btn btn-outline-warning"><span class="fa fa-twitter"></span></a></li>
-                                    <li class="list-inline-item"><a href="#" class="social-link readmore btn btn-outline-warning"><span class="fa fa-instagram"></span></a></li>
-                                    <li class="list-inline-item"><a href="#" class="social-link readmore btn btn-outline-warning"><span class="fa fa-linkedin"></span></a></li>
-                                </ul>
+                                <span class="small text-uppercase text-muted">Sayoc Philippines President</span>
+                                <br>
+                                <span class="small text-uppercase text-muted">0915 - 883 - 5133</span>
+                                <br>
                                 <a href="/joseph-roquid" class="readmore btn btn-outline-warning mt-3"> Learn more <i class="bi bi-arrow-right"></i></a>
+                                <ul class="social mb-0 list-inline mt-3">
+                                    <li class="list-inline-item"><a target="blank" href="https://www.facebook.com/josephedgar.roquid.3" class="social-link readmore btn btn-outline-warning"><span class="fa fa-facebook-f"></span></a></li>
+                                </ul>
                             </div>
                         </div>
                         <!-- End-->
@@ -151,14 +153,15 @@
                             <div class="bg-white rounded shadow-sm py-5 px-4">
                                 <img src="assets/img/instructor/guro3/photo1.jpg" alt="" width="150" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
                                 <h5 class="mb-0">Charlie Mengullo</h5>
-                                <span class="small text-uppercase text-muted">Waray - waray fighting system</span>
-                                <ul class="social mb-0 list-inline mt-3">
-                                    <li class="list-inline-item"><a href="#" class="social-link readmore btn btn-outline-warning"><span class="fa fa-facebook-f"></span></a></li>
-                                    <li class="list-inline-item"><a href="#" class="social-link readmore btn btn-outline-warning"><span class="fa fa-twitter"></span></a></li>
-                                    <li class="list-inline-item"><a href="#" class="social-link readmore btn btn-outline-warning"><span class="fa fa-instagram"></span></a></li>
-                                    <li class="list-inline-item"><a href="#" class="social-link readmore btn btn-outline-warning"><span class="fa fa-linkedin"></span></a></li>
-                                </ul>
+                                <span class="small text-uppercase text-muted">Waray - waray system</span>
+                                <br>
+                                <span class="small text-uppercase text-muted">0905- 156 - 8504</span>
+                                <br>
                                 <a href="/charlie-mengullo" class="readmore btn btn-outline-warning mt-3"> Learn more <i class="bi bi-arrow-right"></i></a>
+
+                                <ul class="social mb-0 list-inline mt-3">
+                                    <li class="list-inline-item"><a target="blank" href="https://www.facebook.com/profile.php?id=100092489572998" class="social-link readmore btn btn-outline-warning"><span class="fa fa-facebook-f"></span></a></li>
+                                </ul>
                             </div>
                         </div>
                         <!-- End-->

@@ -123,14 +123,14 @@ section {
 
 .breadcrumbs:before {
   content: "";
-  background-color: rgba(0, 0, 0, 0.25);
+  background-color: rgba(0, 0, 0, 0.55);
   position: absolute;
   inset: 0;
 }
 
 .breadcrumbs h2 {
-  font-size: 56px;
-  font-weight: 500;
+  font-size: 65px;
+  font-weight: 700;
   color: #fff;
   font-family: var(--font-secondary);
 }
@@ -141,13 +141,13 @@ section {
   list-style: none;
   padding: 0 0 10px 0;
   margin: 0;
-  font-size: 16px;
-  font-weight: 600;
+  font-size: 25px;
+  font-weight: 700;
   color: var(--color-primary);
 }
 
 .breadcrumbs ol a {
-  color: rgba(255, 255, 255, 0.8);
+  color: #fff;
   transition: 0.3s;
 }
 
@@ -1095,8 +1095,9 @@ section {
 # Alt Services Section
 --------------------------------------------------------------*/
 .alt-services .img-bg {
-  background-size: cover;
-  background-position: center center;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
   min-height: 400px;
 }
 
@@ -1860,7 +1861,7 @@ section {
 .hero .carousel-item {
   position: absolute;
   inset: 0;
-  background-size: cover;
+  background-size: contain !important;
   background-position: center;
   background-repeat: no-repeat;
   overflow: hidden;
@@ -1870,7 +1871,7 @@ section {
 
 .hero .carousel-item::before {
   content: "";
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.3);
   position: absolute;
   inset: 0;
 }
@@ -1900,7 +1901,7 @@ section {
   color: #fff;
   margin-bottom: 30px;
   padding-bottom: 30px;
-  font-size: 56px;
+  font-size: 70px;
   font-weight: 700;
   position: relative;
 }
@@ -1925,8 +1926,8 @@ section {
 }
 
 .hero .info p {
-  color: rgba(255, 255, 255, 0.8);
-  font-size: 18px;
+  color: #fff;
+  font-size: 20px;
 }
 
 .hero .info .btn-get-started {
@@ -1941,10 +1942,11 @@ section {
   margin: 10px;
   color: #fff;
   border: 2px solid var(--color-primary);
+  background: #FEB900;
 }
 
 .hero .info .btn-get-started:hover {
-  background: var(--color-primary);
+  background: #daa513;
 }
 
 .hero .carousel-control-prev {
