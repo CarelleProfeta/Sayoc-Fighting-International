@@ -78,3 +78,6 @@ Route::get('/charlie-mengullo', function () {
 });
 
 Route::post('send-mail', [MailController::class, 'contactUs'])->name('contact.submit');
+Route::post('send-mail-instructor1', [MailController::class, 'instructor1'])->name('contact.instructor1');
+Route::post('send-mail-instructor2', [MailController::class, 'instructor2'])->name('contact.instructor2');
+Route::post('send-mail-instructor3', [MailController::class, 'instructor3'])->name('contact.instructor3');

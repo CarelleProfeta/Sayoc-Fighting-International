@@ -164,7 +164,8 @@
                     </div>
 
                     <div class="col-lg-5" data-aos="fade">
-                    <form action="forms/quote.php" method="post" class="php-email-form">
+                    <form action="{{ route('contact.instructor2') }}" method="post" class="php-email-form">
+                        @csrf
                         <h3>JOIN US TODAY</h3>
                         <p>Vel nobis odio laboriosam et hic voluptatem. Inventore vitae totam. Rerum repellendus enim linead sero park flows.</p>
                         <div class="row gy-3">
