@@ -30,8 +30,8 @@ class ContactUsMail extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'Sayoc Fighting International',
-            from: new Address('test@mail.dev', 'SFI'),
+            subject: 'Inquiry Received from ' .  $this->data['name'] . ' - Martial Arts Website',
+            from: new Address('test@mail.dev', 'Sayoc Fighting International'),
         );
     }
 
