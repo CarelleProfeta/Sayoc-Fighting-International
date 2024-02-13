@@ -38,11 +38,13 @@
             <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/hero-carousel/cover14.jpg');">
                 <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
-                <h2>Joseph Roquid</h2>
-                <ol>
-                    <li><a href="/home">Home</a></li>
-                    <li>Instructor</li>
-                </ol>
+                    <!-- Make the name mobile responsive -->
+                    <h2 class="text-center text-md-left">Joseph Roquid</h2>
+
+                    <ol class="text-center text-md-left">
+                        <li><a href="/home">Home</a></li>
+                        <li>Instructor</li>
+                    </ol>
                 </div>
             </div><!-- End Breadcrumbs -->
 
@@ -98,17 +100,17 @@
             <!-- ======= Training Schedule Section ======= -->
             <section id="recent-blog-posts" class="recent-blog-posts section-bg">
                 <div class="container" data-aos="fade-up">
-                    <div class="section-header">
+                    <div class="training-header">
                         <h2>Training Schedule</h2>
                     </div>
 
                     <div class="row">
-                        <div class="col-md-6">
-                            <table class="table-custom">
+                        <div class="col-md-6 mb-4">
+                            <table class="shadow-lg mb-5 bg-white table table-custom training-table">
                                 <!-- Schedule 1 -->
                                 <thead>
                                     <tr>
-                                        <th colspan="2">Casa Hacienda</th>
+                                        <th colspan="2" class="text-center text-md-left">Casa Hacienda</th>
                                     </tr>
                                 </thead>
                                 <tbody class="table-group-divider">
@@ -128,12 +130,12 @@
                             </table>
                         </div>
 
-                        <div class="col-md-6">
-                            <table class="table-custom">
+                        <div class="col-md-6 mb-4">
+                            <table class="shadow-lg mb-5 bg-white table table-custom training-table">
                                 <!-- Schedule 2 -->
                                 <thead>
                                     <tr>
-                                        <th colspan="2">Adamson University</th>
+                                        <th colspan="2" class="text-center text-md-left">Adamson University</th>
                                     </tr>
                                 </thead>
                                 <tbody>

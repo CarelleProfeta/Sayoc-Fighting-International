@@ -68,8 +68,8 @@
                     </div>
                 </div>
                 <div class="col-lg-5 d-flex flex-column justify-content-center">
-                    <h3>Intermediate Course (Mekka-Hadji)</h3>
-                    <p>As one of our most popular offerings, we recommend signing up for this course as early as possible as it tends to fill up quickly. If you’re unsure about your level or have questions, simply reach out.</p>
+                    <h3>Beginner Course (Kadi)</h3>
+                    <p>Through this course, students have the opportunity to push their skills, techniques and confidence to a new level in a fun, dynamic way. Contact us today to learn more about each of our course offerings.</p>
 
                     <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
                     <i class="bi bi-easel flex-shrink-0"></i>

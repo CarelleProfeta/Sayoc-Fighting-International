@@ -2737,6 +2737,9 @@ section {
 /*--------------------------------------------------------------
 # Traning Schedule
 --------------------------------------------------------------*/
+.training-table {
+    border-radius: 30px;
+}
 
 .table-custom {
     width: 100%;
@@ -2744,8 +2747,6 @@ section {
     margin: 0 auto;
     border-collapse: collapse;
     background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    border-radius: 8px;
     overflow: hidden;
 }
 
@@ -2760,7 +2761,7 @@ section {
 }
 
 .table-custom th {
-    font-size: 23px;
+    font-size: 22px;
     color: #000;
 }
 
@@ -2769,6 +2770,7 @@ section {
     font-weight: 700;
     color: #000;
 }
+
 
 /*--------------------------------------------------------------
 # Video
@@ -2852,3 +2854,74 @@ section {
       opacity: 0;
     }
   }
+
+/*--------------------------------------------------------------
+# Training Schedule
+--------------------------------------------------------------*/
+
+  .training-header {
+    text-align: center;
+    padding-bottom: 70px; /* Adjust as needed for spacing */
+  }
+
+  .training-header h2 {
+    font-size: 30px; /* Adjust font size for smaller screens */
+    font-weight: 700;
+    color: #2e3135;
+  }
+
+  .training-header h2:before,
+  .training-header h2:after {
+    content: "";
+    width: 30px; /* Adjust the width for smaller screens */
+    height: 2px;
+    background: var(--color-primary);
+    display: inline-block;
+  }
+
+  .training-header h2:before {
+    margin: 0 10px 5px 0; /* Adjust margins for spacing */
+  }
+
+  .training-header h2:after {
+    margin: 0 0 5px 10px; /* Adjust margins for spacing */
+  }
+
+  .training-header p {
+    margin: 0 auto 0 auto;
+  }
+
+  @media (min-width: 768px) {
+    .training-header h2 {
+      font-size: 32px; /* Reset font size for larger screens */
+    }
+
+    .training-header h2:before,
+    .training-header h2:after {
+      width: 50px; /* Reset width for larger screens */
+    }
+
+    .training-header h2:before {
+      margin: 0 15px 10px 0;
+    }
+
+    .training-header h2:after {
+      margin: 0 0 10px 15px;
+    }
+
+    .training-header p {
+      max-width: 60%;
+    }
+  }
+
+/*--------------------------------------------------------------
+# Instructor contact image
+--------------------------------------------------------------*/
+
+@media (max-width: 767px) {
+    #get-started .col-lg-6 {
+        background-size: cover;
+        background-position: center;
+        height: 300px;
+    }
+}

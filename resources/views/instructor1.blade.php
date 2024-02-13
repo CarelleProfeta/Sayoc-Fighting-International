@@ -38,11 +38,13 @@
             <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/hero-carousel/cover14.jpg');">
                 <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
-                <h2>Leopoldo Lasaleta Jr.</h2>
-                <ol>
-                    <li><a href="/home">Home</a></li>
-                    <li>Instructor</li>
-                </ol>
+                    <!-- Make the name mobile responsive -->
+                    <h2 class="text-center text-md-left">Leopoldo Lasaleta Jr.</h2>
+
+                    <ol class="text-center text-md-left">
+                        <li><a href="/home">Home</a></li>
+                        <li>Instructor</li>
+                    </ol>
                 </div>
             </div><!-- End Breadcrumbs -->
 
@@ -98,17 +100,17 @@
             <!-- ======= Training Schedule Section ======= -->
             <section id="recent-blog-posts" class="recent-blog-posts section-bg">
                 <div class="container" data-aos="fade-up">
-                    <div class="section-header">
+                    <div class="training-header">
                         <h2>Training Schedule</h2>
                     </div>
 
                     <div class="row">
-                        <div class="col-md-6">
-                            <table class="table-custom">
+                        <div class="col-md-6 mb-4">
+                            <table class="shadow-lg mb-5 bg-white table table-custom training-table">
                                 <!-- Schedule 1 -->
                                 <thead>
                                     <tr>
-                                        <th colspan="2">Casa Hacienda</th>
+                                        <th colspan="2" class="text-center text-md-left">Casa Hacienda</th>
                                     </tr>
                                 </thead>
                                 <tbody class="table-group-divider">
@@ -128,12 +130,12 @@
                             </table>
                         </div>
 
-                        <div class="col-md-6">
-                            <table class="table-custom">
+                        <div class="col-md-6 mb-4">
+                            <table class="shadow-lg mb-5 bg-white table table-custom training-table">
                                 <!-- Schedule 2 -->
                                 <thead>
                                     <tr>
-                                        <th colspan="2">Adamson University</th>
+                                        <th colspan="2" class="text-center text-md-left">Adamson University</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -157,49 +159,37 @@
             <!-- ======= Get Started Section ======= -->
             <section id="get-started" class="get-started">
                 <div class="container">
-
-                <div class="row justify-content-between gy-4">
-
-                    <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up" style="background-image: url(assets/img/hero-carousel/cover2.jpg); background-size: contain; background-position: center; background-repeat: no-repeat;">
+                    <div class="row justify-content-between gy-4">
+                        <div class="col-lg-6 d-flex align-items-center" data-aos="fade-up" style="background-image: url(assets/img/hero-carousel/cover2.jpg); background-size: contain; background-position: center; background-repeat: no-repeat;">
+                        </div>
+                        <div class="col-lg-5" data-aos="fade">
+                            <form action="{{ route('contact.instructor1') }}" method="post" class="php-email-form">
+                                @csrf
+                                <h3>JOIN US TODAY</h3>
+                                <p>Vel nobis odio laboriosam et hic voluptatem. Inventore vitae totam. Rerum repellendus enim linead sero park flows.</p>
+                                <div class="row gy-3">
+                                    <div class="col-md-12">
+                                        <input type="text" name="name" class="form-control" placeholder="Name" required>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <input type="email" class="form-control" name="email" placeholder="Email" required>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <input type="text" class="form-control" name="phone" placeholder="Phone" required>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
+                                    </div>
+                                    <div class="col-md-12 text-center">
+                                        <div class="loading">Loading</div>
+                                        <div class="error-message"></div>
+                                        <div class="sent-message">Your quote request has been sent successfully. Thank you!</div>
+                                        <button type="submit">Send a message</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div><!-- End Quote Form -->
                     </div>
-
-                    <div class="col-lg-5" data-aos="fade">
-                    <form action="{{ route('contact.instructor1') }}" method="post" class="php-email-form">
-                        @csrf
-                        <h3>JOIN US TODAY</h3>
-                        <p>Vel nobis odio laboriosam et hic voluptatem. Inventore vitae totam. Rerum repellendus enim linead sero park flows.</p>
-                        <div class="row gy-3">
-
-                        <div class="col-md-12">
-                            <input type="text" name="name" class="form-control" placeholder="Name" required>
-                        </div>
-
-                        <div class="col-md-12 ">
-                            <input type="email" class="form-control" name="email" placeholder="Email" required>
-                        </div>
-
-                        <div class="col-md-12">
-                            <input type="text" class="form-control" name="phone" placeholder="Phone" required>
-                        </div>
-
-                        <div class="col-md-12">
-                            <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
-                        </div>
-
-                        <div class="col-md-12 text-center">
-                            <div class="loading">Loading</div>
-                            <div class="error-message"></div>
-                            <div class="sent-message">Your quote request has been sent successfully. Thank you!</div>
-
-                            <button type="submit">Send a message</button>
-                        </div>
-
-                        </div>
-                    </form>
-                    </div><!-- End Quote Form -->
-
-                </div>
-
                 </div>
             </section>
             <!-- End Get Started Section -->
