@@ -51,12 +51,14 @@
             <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
 
                 <div class="carousel-item active" style="background-image: url(assets/img/SFI_logo.jpg)"></div>
-                <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover22.jpg)"></div>
-                <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover12.jpg)"></div>
                 <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover6.jpg)"></div>
+                <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover26.jpg)"></div>
+                <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover12.jpg)"></div>
+                <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover22.jpg)"></div>
                 <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover5.jpg)"></div>
                 <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover3.jpg)"></div>
                 <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover4.jpg)"></div>
+                <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/cover16.jpg)"></div>
 
                 <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
@@ -195,12 +197,12 @@
                     <div class="col-lg-4 col-md-6 portfolio-item filter-tournaments">
                         <div class="portfolio-content h-100">
                             <div class="image-container">
-                                <img src="assets/img/hero-carousel/cover16.jpg" class="img-fluid" alt="">
+                                <img src="assets/img/hero-carousel/cover25.jpg" class="img-fluid" alt="">
                             </div>
                             <div class="portfolio-info">
                                 <h4>Grand Master Bo - Arnis Duelo Cup 2024</h4>
                                 <div class="d-flex justify-content-center align-items-center mt-3">
-                                    <a href="assets/img/hero-carousel/cover16.jpg" title="Sample content" data-gallery="portfolio-gallery-book" class="glightbox preview-link">
+                                    <a href="assets/img/events/video1.mp4" title="Sample content" data-gallery="portfolio-gallery-book" class="glightbox preview-link">
                                         <i class="bi bi-zoom-in"></i>
                                     </a>
                                 </div>
