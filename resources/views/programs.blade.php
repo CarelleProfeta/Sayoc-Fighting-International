@@ -61,58 +61,61 @@
     <section id="alt-services" class="alt-services">
         <div class="container" data-aos="fade-up">
             <div class="row justify-content-around gy-4 align-items-center">
-                <div class="col-lg-6 position-relative d-flex align-items-center order-lg-last order-first">
-                    <img src="assets/img/programs/photo6.jpg" class="img-fluid h-100" alt="">
-                    <a href="assets/img/programs/video3.mp4" class="glightbox play-btn"></a>
+                <div class="col-lg-6 order-lg-last">
+                    <div class="position-relative">
+                        <img src="assets/img/programs/photo6.jpg" class="img-fluid h-100" alt="">
+                        <a href="assets/img/programs/video3.mp4" class="glightbox play-btn"></a>
+                    </div>
                 </div>
                 <div class="col-lg-5 d-flex flex-column justify-content-center">
-                <h3>Beginner Course (Kadi)</h3>
-                <p>Through this course, students have the opportunity to push their skills, techniques and confidence to a new level in a fun, dynamic way. Contact us today to learn more about each of our course offerings.</p>
+                    <h3>Intermediate Course (Mekka-Hadji)</h3>
+                    <p>As one of our most popular offerings, we recommend signing up for this course as early as possible as it tends to fill up quickly. If you’re unsure about your level or have questions, simply reach out.</p>
 
-                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
-                <i class="bi bi-easel flex-shrink-0"></i>
-                <div>
-                    <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-                    <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                    <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
+                    <i class="bi bi-easel flex-shrink-0"></i>
+                    <div>
+                        <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
+                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                    </div>
+                    </div><!-- End Icon Box -->
+
+                    <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
+                    <i class="bi bi-patch-check flex-shrink-0"></i>
+                    <div>
+                        <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
+                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                    </div>
+                    </div><!-- End Icon Box -->
+
+                    <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
+                    <i class="bi bi-brightness-high flex-shrink-0"></i>
+                    <div>
+                        <h4><a href="" class="stretched-link">Dine Pad</a></h4>
+                        <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+                    </div>
+                    </div><!-- End Icon Box -->
+
+                    <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
+                    <i class="bi bi-brightness-high flex-shrink-0"></i>
+                    <div>
+                        <h4><a href="" class="stretched-link">Tride clov</a></h4>
+                        <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
+                    </div>
+                    </div><!-- End Icon Box -->
                 </div>
-                </div><!-- End Icon Box -->
-
-                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-patch-check flex-shrink-0"></i>
-                <div>
-                    <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-                </div>
-                </div><!-- End Icon Box -->
-
-                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
-                <i class="bi bi-brightness-high flex-shrink-0"></i>
-                <div>
-                    <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-                    <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
-                </div>
-                </div><!-- End Icon Box -->
-
-                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
-                <i class="bi bi-brightness-high flex-shrink-0"></i>
-                <div>
-                    <h4><a href="" class="stretched-link">Tride clov</a></h4>
-                    <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
-                </div>
-                </div><!-- End Icon Box -->
-
             </div>
         </div>
-      </div>
     </section><!-- End Alt Services Section -->
 
     <!-- ======= Alt Services Section 2 ======= -->
     <section id="alt-services-2" class="alt-services section-bg">
         <div class="container" data-aos="fade-up">
             <div class="row justify-content-around gy-4 align-items-center">
-                <div class="col-lg-6 position-relative d-flex align-items-center order-lg-first order-last">
-                    <img src="assets/img/programs/photo3.jpg" class="img-fluid h-100" alt="">
-                    <a href="https://youtu.be/8Osm3XZYxiw?si=FlMfkm6qyjjch7i1" class="glightbox play-btn"></a>
+                <div class="col-lg-6">
+                    <div class="position-relative">
+                        <img src="assets/img/programs/photo3.jpg" class="img-fluid h-100" alt="">
+                        <a href="https://youtu.be/8Osm3XZYxiw?si=FlMfkm6qyjjch7i1" class="glightbox play-btn"></a>
+                    </div>
                 </div>
                 <div class="col-lg-5 d-flex flex-column justify-content-center">
                     <h3>Intermediate Course (Mekka-Hadji)</h3>
@@ -158,58 +161,61 @@
     <section id="alt-services" class="alt-services">
         <div class="container" data-aos="fade-up">
             <div class="row justify-content-around gy-4 align-items-center">
-                <div class="col-lg-6 position-relative d-flex align-items-center order-lg-last order-first">
-                    <img src="assets/img/programs/photo4.jpg" class="img-fluid h-100" alt="">
-                    <a href="assets/img/programs/video1.mp4" class="glightbox play-btn"></a>
+                <div class="col-lg-6 order-lg-last">
+                    <div class="position-relative">
+                        <img src="assets/img/programs/photo4.jpg" class="img-fluid h-100" alt="">
+                        <a href="assets/img/programs/video1.mp4" class="glightbox play-btn"></a>
+                    </div>
                 </div>
                 <div class="col-lg-5 d-flex flex-column justify-content-center">
-                <h3>Yakan</h3>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt, iste culpa facere officiis voluptatum sequi inventore quaerat. Dicta, dolorem corrupti asperiores placeat voluptatum veritatis deserunt optio modi voluptates impedit vitae.</p>
+                    <h3>Yakan</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt, iste culpa facere officiis voluptatum sequi inventore quaerat. Dicta, dolorem corrupti asperiores placeat voluptatum veritatis deserunt optio modi voluptates impedit vitae.</p>
 
-                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
-                <i class="bi bi-easel flex-shrink-0"></i>
-                <div>
-                    <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-                    <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                    <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
+                    <i class="bi bi-easel flex-shrink-0"></i>
+                    <div>
+                        <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
+                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                    </div>
+                    </div><!-- End Icon Box -->
+
+                    <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
+                    <i class="bi bi-patch-check flex-shrink-0"></i>
+                    <div>
+                        <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
+                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                    </div>
+                    </div><!-- End Icon Box -->
+
+                    <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
+                    <i class="bi bi-brightness-high flex-shrink-0"></i>
+                    <div>
+                        <h4><a href="" class="stretched-link">Dine Pad</a></h4>
+                        <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+                    </div>
+                    </div><!-- End Icon Box -->
+
+                    <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
+                    <i class="bi bi-brightness-high flex-shrink-0"></i>
+                    <div>
+                        <h4><a href="" class="stretched-link">Tride clov</a></h4>
+                        <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
+                    </div>
+                    </div><!-- End Icon Box -->
                 </div>
-                </div><!-- End Icon Box -->
-
-                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-patch-check flex-shrink-0"></i>
-                <div>
-                    <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-                </div>
-                </div><!-- End Icon Box -->
-
-                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
-                <i class="bi bi-brightness-high flex-shrink-0"></i>
-                <div>
-                    <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-                    <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
-                </div>
-                </div><!-- End Icon Box -->
-
-                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
-                <i class="bi bi-brightness-high flex-shrink-0"></i>
-                <div>
-                    <h4><a href="" class="stretched-link">Tride clov</a></h4>
-                    <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
-                </div>
-                </div><!-- End Icon Box -->
-
             </div>
         </div>
-      </div>
     </section><!-- End Alt Services Section 3 -->
 
     <!-- ======= Alt Services Section 4 ======= -->
     <section id="alt-services-2" class="alt-services section-bg">
         <div class="container" data-aos="fade-up">
             <div class="row justify-content-around gy-4 align-items-center">
-                <div class="col-lg-6 position-relative d-flex align-items-center order-lg-first order-last">
-                    <img src="assets/img/programs/photo5.jpg" class="img-fluid h-100" alt="">
-                    <a href="assets/img/programs/video2.mp4" class="glightbox play-btn"></a>
+                <div class="col-lg-6">
+                    <div class="position-relative">
+                        <img src="assets/img/programs/photo5.jpg" class="img-fluid h-100" alt="">
+                        <a href="assets/img/programs/video2.mp4" class="glightbox play-btn"></a>
+                    </div>
                 </div>
                 <div class="col-lg-5 d-flex flex-column justify-content-center">
                     <h3>Lakan</h3>
