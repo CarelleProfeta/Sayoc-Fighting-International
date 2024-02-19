@@ -101,7 +101,7 @@
             <section id="recent-blog-posts" class="recent-blog-posts section-bg">
                 <div class="container" data-aos="fade-up">
                     <div class="training-header">
-                        <h2>Training Schedule</h2>
+                        <h2>SFI Training Centers</h2>
                     </div>
 
                     <div class="row">
@@ -110,21 +110,13 @@
                                 <!-- Schedule 1 -->
                                 <thead>
                                     <tr>
-                                        <th colspan="2" class="text-center text-md-left">Casa Hacienda</th>
+                                        <th colspan="2" class="text-center text-md-left">Casa Hacienda, Rosario </th>
                                     </tr>
                                 </thead>
                                 <tbody class="table-group-divider">
                                     <tr>
-                                        <td>Sunday</td>
-                                        <td>2:00pm - 5:00pm</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tuesday</td>
-                                        <td>8:00am - 10:00am</td>
-                                    </tr>
-                                    <tr>
                                         <td>Friday</td>
-                                        <td>9:00am - 11:00am</td>
+                                        <td>1:00pm - 5:00pm</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -132,23 +124,76 @@
 
                         <div class="col-md-6 mb-4">
                             <table class="shadow-lg mb-5 bg-white table table-custom training-table">
+                                <!-- Schedule 1 -->
+                                <thead>
+                                    <tr>
+                                        <th colspan="2" class="text-center text-md-left">Bucal, Maragondon</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="table-group-divider">
+                                    <tr>
+                                        <td>Saturday</td>
+                                        <td>7:00am - 10:00am</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="col-md-6 mb-4">
+                            <table class="shadow-lg mb-5 bg-white table table-custom training-table">
+                                <!-- Schedule 1 -->
+                                <thead>
+                                    <tr>
+                                        <th colspan="2" class="text-center text-md-left">Luneta Park, Manila</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="table-group-divider">
+                                    <tr>
+                                        <td>Saturday</td>
+                                        <td>3:00pm - 5:00pm</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="col-md-6 mb-4">
+                            <table class="shadow-lg mb-5 bg-white table table-custom training-table">
+                                <!-- Schedule 1 -->
+                                <thead>
+                                    <tr>
+                                        <th colspan="2" class="text-center text-md-left">Sapa, Rosario</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="table-group-divider">
+                                    <tr>
+                                        <td>Sunday</td>
+                                        <td>3:00pm - 5:00pm</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="col-md-6 mb-4 mx-auto">
+                            <table class="shadow-lg mb-5 bg-white table table-custom training-table">
                                 <!-- Schedule 2 -->
                                 <thead>
                                     <tr>
-                                        <th colspan="2" class="text-center text-md-left">Adamson University</th>
+                                        <th colspan="2" class="text-center text-md-left">Adamson University, Manila</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>Monday</td>
-                                        <td>3:00pm - 6:00pm</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Thursday</td>
+                                        <td>Saturday</td>
                                         <td>1:00pm - 3:00pm</td>
                                     </tr>
                                 </tbody>
                             </table>
+                        </div>
+
+                    </div>
+                    <div class="row mt-4">
+                        <div class="col-md-12 text-center">
+                            <p class="text-muted">Note: Training schedules are subject to change based on instructor availability.</p>
                         </div>
                     </div>
                 </div>
@@ -156,8 +201,65 @@
             <!-- ======= Training Schedule Section End ======= -->
 
 
+            <!-- ======= Training Scheme Section ======= -->
+            <section class="training-header">
+                <div class="container" data-aos="fade-up">
+                    <div class="section-header">
+                        <h2>Training Schemes</h2>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6 mb-4">
+                            <div class="training-box d-flex flex-column justify-content-center align-items-center">
+                                <h3>Regular Classes</h3>
+                                <p>
+                                    Join our regular classes held at our training centers. These sessions provide comprehensive martial arts training and are suitable for all skill levels.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 mb-4">
+                            <div class="training-box d-flex flex-column justify-content-center align-items-center">
+                                <h3>Virtual Classes</h3>
+                                <p>
+                                    Attend virtual classes from the comfort of your home. Our online sessions bring the training experience to you, allowing flexibility in your schedule.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 mb-4">
+                            <div class="training-box d-flex flex-column justify-content-center align-items-center">
+                                <h3>Tutorial Classes</h3>
+                                <p>
+                                    Receive personalized attention with our tutorial classes. Perfect for individuals seeking focused guidance and customized training plans.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 mb-4">
+                            <div class="training-box d-flex flex-column justify-content-center align-items-center">
+                                <h3>Specialized Classes</h3>
+                                <p>
+                                    Explore specialized classes tailored to specific martial arts disciplines. Enhance your skills and knowledge in niche areas of interest.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 mb-4 mx-auto">
+                            <div class="training-box d-flex flex-column justify-content-center align-items-center">
+                                <h3>Instructional Course</h3>
+                                <p>
+                                    Enroll in our instructional courses for an in-depth exploration of martial arts principles and techniques. Ideal for those looking for a structured learning program.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- ======= Training Scheme Section End ======= -->
+
             <!-- ======= Get Started Section ======= -->
-            <section id="get-started" class="get-started">
+            <section id="get-started" class="get-started section-bg">
                 <div class="container">
 
                 <div class="row justify-content-between gy-4">

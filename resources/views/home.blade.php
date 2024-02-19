@@ -154,7 +154,7 @@
                                 <h5 class="mb-0">Charlie Mengullo</h5>
                                 <span class="small text-uppercase text-muted">Lakan Guro</span>
                                 <br>
-                                <span class="small text-uppercase text-muted">0905- 156 - 8504</span>
+                                <span class="small text-uppercase text-muted">0905 - 156 - 8504</span>
                                 <br>
                                 <a href="/charlie-mengullo" class="readmore btn btn-outline-warning mt-3"> Learn more <i class="bi bi-arrow-right"></i></a>
 

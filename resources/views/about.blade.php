@@ -65,40 +65,13 @@
           <div class="col-lg-6 img-bg" style="background-image: url(assets/img/hero-carousel/cover2.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
 
           <div class="col-lg-5 d-flex flex-column justify-content-center">
-            <h3>Our Background & Philosophy</h3>
-            <p>Sayoc Fighting International was born out of a simple idea: bringing high quality, accessible and affordable FMA education to the entire community. Our unique approach to learning and top quality arnis and blade instructors makes Sayoc Fighting International one of the best FMA schools in the Philippines. We invite you to explore our engaging and diverse course schedule, and stop by for a visit at your convenience.</p>
+            <h3>Our Background</h3>
 
-            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
-              <i class="bi bi-easel flex-shrink-0"></i>
-              <div>
-                <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-              </div>
-            </div><!-- End Icon Box -->
+            <h5>Baltazar Zook Sayoc: A Brief Biography</h5>
 
-            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
-              <i class="bi bi-patch-check flex-shrink-0"></i>
-              <div>
-                <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-              </div>
-            </div><!-- End Icon Box -->
+            <p style="text-align: justify;">The founder of SFI/Sayoc Kali was Baltazar “Bo” Zook Sayoc. A multi awarded FMA Grand Master. He was born in  the city of Imus, Cavite, Philippines in 1932, Grand Master Sayoc came from the well known clan of the Topacio Family. He is a part of the fourth generation of the family of the Great General of the revolution Gen. Euleterio Topacio.</p>
 
-            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
-              <i class="bi bi-brightness-high flex-shrink-0"></i>
-              <div>
-                <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-                <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
-              </div>
-            </div><!-- End Icon Box -->
-
-            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
-              <i class="bi bi-brightness-high flex-shrink-0"></i>
-              <div>
-                <h4><a href="" class="stretched-link">Tride clov</a></h4>
-                <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
-              </div>
-            </div><!-- End Icon Box -->
+            <p style="text-align: justify;">Grand Master Bo began his career in martial arts at the young age of eleven. He went on to study B.S. Nautical Engineering in the Philippine Nautical School which allowed him to travel and enter numerous boxing contests in various ports where his ship would sometimes be dry docked for repairs. It was during his tenure as apprentice officer when he was first introduced to the martial arts of the Philippines. He began by being tutored by some of the older ship’s hands original crew of President Manuel L. Quezon. </p>
 
           </div>
         </div>
@@ -112,40 +85,13 @@
 
         <div class="row justify-content-around gy-4">
           <div class="col-lg-5 d-flex flex-column justify-content-center">
-            <h3>Non quasi officia eum nobis et rerum epudiandae rem voluptatem</h3>
-            <p>Maxime quia dolorum alias perspiciatis. Earum voluptatem sint at non. Ducimus maxime minima iste magni sit praesentium assumenda minus. Amet rerum saepe tempora vero.</p>
 
-            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
-              <i class="bi bi-easel flex-shrink-0"></i>
-              <div>
-                <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-              </div>
-            </div><!-- End Icon Box -->
+            <h5>Pioneer of Filipino Martial Arts in United States America</h5>
 
-            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
-              <i class="bi bi-patch-check flex-shrink-0"></i>
-              <div>
-                <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-              </div>
-            </div><!-- End Icon Box -->
+            <p style="text-align: justify;">After his time in the merchant marines in 1962, he came to the United States, settling in Queens, New York, where he opened his first martial arts school teaching Judo and Ju Jitsu six years later. He introduced martial arts to his kids at a very young age, and by the time his eldest children were in their teens, they were already assisting the Grand Master in running the school. In the early 80’s, Grand Master Bo quietly moved his family to Southwest Florida and worked as a corrections officer until his retirement in the early nineties. Over the years, Grand Master Sayoc became highly ranked in more than half a dozen martial arts, both as a student and instructor, which includes Judo, Ju Jitsu, Tae Kwondo, Karate, and the Filipino arts of Arnis de Mano, Eskrima and Kali. Kali is the art taken to a new height by Grand Master Sayoc. Sayoc Kali is a Filipino Martial Art passed down through his family for several generations.</p>
 
-            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
-              <i class="bi bi-brightness-high flex-shrink-0"></i>
-              <div>
-                <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-                <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
-              </div>
-            </div><!-- End Icon Box -->
+            <p style="text-align: justify">Being the recipient of numerous awards, five of which came from the Hall of Fame, he imparted his broad knowledge in martial arts by speaking in seminars and being a member of various organizations. Following 30 long years of research, study, experimentation and teaching, he introduced a new approach to close quarter fighting: the “Finger Touch.” After years of extensive propagation of the Filipino Martial Arts in the United States, Grandmaster Bo returned to the Philippines.</p>
 
-            <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
-              <i class="bi bi-brightness-high flex-shrink-0"></i>
-              <div>
-                <h4><a href="" class="stretched-link">Tride clov</a></h4>
-                <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
-              </div>
-            </div><!-- End Icon Box -->
           </div>
 
           <div class="col-lg-6 img-bg" style="background-image: url(assets/img/hero-carousel/cover9.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
@@ -153,6 +99,29 @@
 
       </div>
     </section><!-- End Alt Services Section 2 -->
+
+    <!-- ======= Alt Services Section 3 ======= -->
+    <section id="alt-services" class="alt-services">
+        <div class="container" data-aos="fade-up">
+
+          <div class="row justify-content-around gy-4">
+            <div class="col-lg-6 img-bg" style="background-image: url(assets/img/hero-carousel/cover2.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
+
+            <div class="col-lg-5 d-flex flex-column justify-content-center">
+
+                <p style="text-align: justify;">Grand Master Sayoc was a very humble person, he is always quick to admonish to all of his students, <strong>“I’m not the Master - He is up above looking down on us. I am but your guide to the things I have been given to teach over my lifetime.” </strong>
+                </p>
+
+                <br>
+
+                <h4 style="text-align: center;"><strong>From  Sayoc Kali Group to Sayoc Fighting System now we are</strong></h4>
+
+                <h4 style="text-align: center;"><strong><em><u>Sayoc Fighting International</u></em>.</strong></h4>
+            </div>
+          </div>
+
+        </div>
+      </section><!-- End Alt Services Section 3 -->
 
   </main><!-- End #main -->
 

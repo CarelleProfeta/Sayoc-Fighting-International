@@ -2771,6 +2771,9 @@ section {
     color: #000;
 }
 
+.training-header h3 {
+    color:#000;
+}
 
 /*--------------------------------------------------------------
 # Video
@@ -2865,9 +2868,8 @@ section {
   }
 
   .training-header h2 {
-    font-size: 30px; /* Adjust font size for smaller screens */
+    font-size: 28px; /* Adjust font size for smaller screens */
     font-weight: 700;
-    color: #2e3135;
   }
 
   .training-header h2:before,
@@ -2913,6 +2915,14 @@ section {
       max-width: 60%;
     }
   }
+
+  .training-box {
+    border: 2px solid #FEB900;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #F5F6F7;
+    transition: transform 0.3s ease-in-out;
+}
 
 /*--------------------------------------------------------------
 # Instructor contact image
