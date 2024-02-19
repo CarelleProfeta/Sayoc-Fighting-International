@@ -84,16 +84,13 @@
 
                         <div class="col-lg-7">
                             <h2 class="text-center">Sayoc Fighting International</h2>
-                            <div class="our-story">
+                            <div class="our-story" style="text-align: justify;">
                                 <h4>Est 2012</h4>
                                 <h3>Our Story</h3>
-                                <p>Inventore aliquam beatae at et id alias. Ipsa dolores amet consequuntur minima quia maxime autem. Quidem id sed ratione. Tenetur provident autem in reiciendis rerum at dolor. Aliquam consectetur laudantium temporibus dicta minus dolor.</p>
-                                <ul>
-                                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea commo</span></li>
-                                <li><i class="bi bi-check-circle"></i> <span>Duis aute irure dolor in reprehenderit in</span></li>
-                                <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span></li>
-                                </ul>
-                                <p>Vitae autem velit excepturi fugit. Animi ad non. Eligendi et non nesciunt suscipit repellendus porro in quo eveniet. Molestias in maxime doloremque.</p>
+                                <p>The Sayoc Fighting System Inc. popularly  known as the <strong> Sayoc Fighting International</strong>, a duly recognized Filipino Martial Arts group whose main objective is the propagation of arnis nationwide.
+                                </p>
+
+                                <p>Our system is basically blade art, We the practioners of the art aims to master the use of bladed weapons  karambit, knife and bolo or machete as we progressed we become masters of the different bladed weapons.</p>
 
                                 <a href="/about" class="readmore btn btn-outline-warning"> Read more <i class="bi bi-arrow-right"></i></a>
 
@@ -121,7 +118,7 @@
                             <div class="bg-white rounded shadow-sm py-5 px-4">
                                 <img src="assets/img/instructor/guro1/photo1.jpg" alt="" width="150" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
                                 <h5 class="mb-0">Leopoldo Lasaleta Jr.</h5>
-                                <span class="small text-uppercase text-muted">Chairman, Sayoc Fighting International</span>
+                                <span class="small text-uppercase text-muted">Lakan Guro</span>
                                 <br>
                                 <span class="small text-uppercase text-muted">0992 - 549 - 8330</span>
                                 <br>
@@ -138,7 +135,7 @@
                             <div class="bg-white rounded shadow-sm py-5 px-4">
                                 <img src="assets/img/instructor/guro2/photo1.jpg" alt="" width="150" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
                                 <h5 class="mb-0">Joseph Roquid</h5>
-                                <span class="small text-uppercase text-muted">Sayoc Philippines President</span>
+                                <span class="small text-uppercase text-muted">Lakan Guro</span>
                                 <br>
                                 <span class="small text-uppercase text-muted">0915 - 883 - 5133</span>
                                 <br>
@@ -155,7 +152,7 @@
                             <div class="bg-white rounded shadow-sm py-5 px-4">
                                 <img src="assets/img/instructor/guro3/photo1.jpg" alt="" width="150" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
                                 <h5 class="mb-0">Charlie Mengullo</h5>
-                                <span class="small text-uppercase text-muted">Waray - waray system</span>
+                                <span class="small text-uppercase text-muted">Lakan Guro</span>
                                 <br>
                                 <span class="small text-uppercase text-muted">0905- 156 - 8504</span>
                                 <br>

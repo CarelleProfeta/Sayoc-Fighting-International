@@ -35,7 +35,7 @@
         <main id="main">
 
             <!-- ======= Breadcrumbs ======= -->
-            <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/hero-carousel/cover14.jpg');">
+            <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/header/Sayoc_tribal_logo.png');">
                 <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
                     <!-- Make the name mobile responsive -->

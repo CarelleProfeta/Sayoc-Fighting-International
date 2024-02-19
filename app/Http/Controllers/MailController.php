@@ -11,7 +11,7 @@ class MailController extends Controller {
 
     public function contactUs(Request $request) {
         try {
-            $email = Mail::to('sayocfighting@gmail.com')->send(new ContactUsMail([
+            $email = Mail::to('profetachrisantinecarelle@gmail.com')->send(new ContactUsMail([
                 'name' => $request->name,
                 'email' => $request->email,
                 'subject' => $request->subject,

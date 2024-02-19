@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>UpConstruction Bootstrap Template - About</title>
+  <title>Sayoc Fighting International</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -45,7 +45,7 @@
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/hero-carousel/cover14.jpg');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/header/Sayoc_tribal_logo.png');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>About</h2>
