@@ -976,6 +976,13 @@ section {
   transform: scale(1.1);
 }
 
+.preview-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%; /* To horizontally center the icon */
+}
+
 /*--------------------------------------------------------------
 # Testimonials Section
 --------------------------------------------------------------*/

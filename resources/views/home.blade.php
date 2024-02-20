@@ -184,14 +184,33 @@
                 <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
 
                 <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
-                    <li data-filter="*" class="filter-active">All</li>
+                    <li data-filter="*" class="filter-active">All Gatherings</li>
                     <li data-filter=".filter-sama-sama">Sama-sama</li>
-                    <li data-filter=".filter-tournaments">Tournaments</li>
+                    <li data-filter=".filter-FMA">FMA</li>
+                    <li data-filter=".filter-year-end">Year End</li>
                 </ul><!-- End Projects Filters -->
 
                 <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-tournaments">
+                    {{-- Sama sama --}}
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-sama-sama">
+                        <div class="portfolio-content h-100 d-flex flex-column">
+                            <div class="image-container">
+                                <img src="assets/img/hero-carousel/cover13.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="portfolio-info">
+                                <h4>Sama-Sama 2012</h4>
+                                <div class="d-flex justify-content-center align-items-center mt-3">
+                                    <a href="assets/img/hero-carousel/cover13.jpg" title="Sample Content" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link">
+                                        <i class="bi bi-zoom-in"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    {{-- FMA --}}
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-FMA">
                         <div class="portfolio-content h-100">
                             <div class="image-container">
                                 <img src="assets/img/hero-carousel/cover25.jpg" class="img-fluid" alt="">
@@ -207,15 +226,16 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-sama-sama">
-                        <div class="portfolio-content h-100 d-flex flex-column">
+                    {{-- Year End --}}
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-year-end">
+                        <div class="portfolio-content h-100">
                             <div class="image-container">
-                                <img src="assets/img/hero-carousel/cover13.jpg" class="img-fluid" alt="">
+                                <img src="assets/img/hero-carousel/cover25.jpg" class="img-fluid" alt="">
                             </div>
                             <div class="portfolio-info">
-                                <h4>Sama-Sama 2012</h4>
+                                <h4>Year End Gathering</h4>
                                 <div class="d-flex justify-content-center align-items-center mt-3">
-                                    <a href="assets/img/hero-carousel/cover13.jpg" title="Sample Content" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link">
+                                    <a href="assets/img/events/video1.mp4" title="Sample content" data-gallery="portfolio-gallery-book" class="glightbox preview-link">
                                         <i class="bi bi-zoom-in"></i>
                                     </a>
                                 </div>

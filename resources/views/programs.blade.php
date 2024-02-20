@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-lg-5 d-flex flex-column justify-content-center">
                     <h3>Kadi</h3>
-                    <p style="text-align: justify;">Is a novice rank in which he /she will be judge if he /she is worthy to learn the art . He will be taught basic footworks and basic strikes. Patience is the key in passing this stage.</p>
+                    <p style="text-align: justify;">Is a novice rank in which he/she will be judge if he/she is worthy to learn the art. He will be taught basic footworks and basic strikes. Patience is the key in passing this stage.</p>
                 </div>
             </div>
         </div>
@@ -87,7 +87,7 @@
                 </div>
                 <div class="col-lg-5 d-flex flex-column justify-content-center">
                     <h3>Mekka</h3>
-                    <p style="text-align: justify;">Is the next rank after Kadi, here the student learns the foundation of the art . Humility is key to go beyond this stage. The half of the basic progam is taught at thuis level.</p>
+                    <p style="text-align: justify;">Is the next rank after Kadi, here the student learns the foundation of the art. Humility is key to go beyond this stage. The half of the basic progam is taught at thuis level.</p>
                 </div>
             </div>
         </div>
@@ -105,7 +105,7 @@
                 </div>
                 <div class="col-lg-5 d-flex flex-column justify-content-center">
                     <h3>Hadji</h3>
-                    <p style="text-align: justify;">The higher rank after Mekka, he has learned the basics now he needs to master it. It has 3 stages Hadji  3rd Class to 1st Class or Guro . With the rank of Guro he is now qualified and certified to teach the art of the sticks.</p>
+                    <p style="text-align: justify;">The higher rank after Mekka, he has learned the basics now he needs to master it. It has 3 stages Hadji  3rd Class to 1st Class or Guro. With the rank of Guro he is now qualified and certified to teach the art of the sticks.</p>
                 </div>
             </div>
         </div>
@@ -141,7 +141,7 @@
                 </div>
                 <div class="col-lg-5 d-flex flex-column justify-content-center">
                     <h3>Lakan</h3>
-                    <p>This level is the mastery of knife art , he knows the principle of knife fighting and silak. He is now a certified edge weapon expert. He is also required to propagate the art by establishing his own school.</p>
+                    <p>This level is the mastery of knife art, he knows the principle of knife fighting and silak. He is now a certified edge weapon expert. He is also required to propagate the art by establishing his own school.</p>
                 </div>
             </div>
         </div>
